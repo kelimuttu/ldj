@@ -6,8 +6,9 @@ These are a few books that inspire me during the writing process of this book:
 
 - [Remote: Office Not Required](https://www.goodreads.com/book/show/17316682-remote) by David Heinemeier Hansson and
 Jason Fried.
-- Working Remotely by Rocket Matter team
-- [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/) by Wade Foster and the Zapier Team
+- [The Year Without Pants: WordPress.com and the Future of Work](https://www.goodreads.com/book/show/17396014-the-year-without-pants) by Scott Berkun
+- [Working Remotely: The Telecommuter's Guide to the Galaxy](https://www.goodreads.com/book/show/25625280-working-remotely) by Tim Baran
+- [The Ultimate Guide to Remote Work](https://www.goodreads.com/book/show/25266259-the-ultimate-guide-to-remote-work) by Wade Foster and the Zapier Team
 - [My Exile Lifestyle](https://www.goodreads.com/en/book/show/11776937-my-exile-lifestyle) by Colin Wright
 - [The Culture Map](https://www.goodreads.com/book/show/22085568-the-culture-map) by Erin Meyer
 
