@@ -1,0 +1,23 @@
+# Different types of employment
+
+Let's say you get everything else in order and now you're negotiating with a company on job offer for a remote position. What should we consider and prepare?
+
+One of the first things that you have to think about is the legal arrangement for your employment. If you're negotiating with a local company, chances are, you're gonna be employed directly by the company. But if you're negotiating with a foreign company, it might be a bit tricky. 
+
+In some cases, you can be hired directly as a contractor/freelancer. In that case, you'll have a direct contract between you and the company. But this kind of arrangement might not suitable for a long term relationship because an employe may be subject to local laws of the location in which its employees are working remotely. 
+
+So in other cases, other company may need to hire you through a local agency especially if they don't have legal representative in your country. This may require a headcount, which normally means that you're essentially considered as a full-time employee. But still, even if you're considered full-time, on paper, you'll be hired under the local agency that poses as a mediary between you and the company.
+
+Because of this, you may need to clarify the implication of your legal arragement with your employer. These are the questions that you may consider asking your employer when negotiating a remote position. 
+
+- Will you be eligible for full-time employees benefits? 
+- What about bonuses? 
+- Will they also provide you with insurances? 
+- Should you do your own taxes? Or will the agency take care of it? 
+- What about holiday? Should I follow local national holiday or is different policy for that?
+
+So yeah, even if you get a job offer, there are still a lot to consider. You may ended up having to work through some of the things by yourself like taxes and insurance, but make sure that you're compensated for that, especially if you're negotiating a full-time employment. 
+
+----
+
+<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by docsify</a>
