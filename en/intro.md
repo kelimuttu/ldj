@@ -37,7 +37,6 @@ There are multiple reasons you should send a PR:
 - English is not my mother tongue. I'm pretty sure there are grammar mistakes and misspells all over the place. If you're a grammar Nazi, please CMIIW!
 - My original plan was to publish the book in Indonesian, but I find myself more inspired to write in English. If you're keen to help localize the content into Bahasa Indonesia, please send a PR or [contact me](https://kelimuttu.co/contact/) if you don't know how to do it. 
 
-
 ----
 
 <a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by docsify</a>
