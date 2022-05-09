@@ -2,21 +2,23 @@
 
 > A tale of a remote worker
 
-## What is this book about? 
+## What is Long Distance Work?
 
-This is a story about the my journey into remote working and what I find helpful to keep my productivity throughout the years of my experience. 
-
-This book may more suitable for a beginner who just get started into remote working, rather than for an experienced remotee looking for an advance topic. 
+This is a digital book, consisting a story about my journey into remote working and what I find helpful to keep my productivity throughout the years of my experience. This book may be helpful for a beginner who just get started into remote working to understand what to expect and prepare when you work remotely. 
 
 ## What do I get from this book? 
 
 This book may answer some of these questions: 
 
 - How to set expectation and get started with remote work?
-- How to get the right rythm when we work remotely?
+- How to get the comfortable rythm when we work remotely?
 - How to navigate timezone and cultural differences?
 - Is it possible to work from everywhere?
 - What does remote employment entail?
+
+## Where can I read the book? 
+
+Head over to [this page](https://kelimuttu.github.io/long-distance-work/) read the book. 
 
 ## Want to contribute?
 
