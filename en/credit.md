@@ -28,7 +28,7 @@ I also rely on these artists to decorate this book with visual artworks:
 
 # Tech stack
 
-I'm grateful for [Docsify](https://docsify.js.org) to let me focus on the content instead of having to deal with the technical thing of building a website. 
+I'm grateful for [Docsify](https://docsify.js.org) for making it possible for me to focus on the content instead of having to deal with the technical thing of building a website. 
 
 ----
 

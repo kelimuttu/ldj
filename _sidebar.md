@@ -33,6 +33,7 @@
   - [Different types of employment](en/employment.md)
   - [Incentives and benefits](en/incentive-benefits.md)
   - [Remote toolkit](en/remote-toolkit.md)
+  - [Remote onboarding](en/onboarding.md)
   - [Find your groove](en/find-your-groove.md)
 
 - Final words
