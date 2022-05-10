@@ -1,43 +1,43 @@
 - Introduction 
-  - [A note to reader](en/intro.md)
+  - [A Note to Reader](en/intro.md)
 
-- A tale of a commuter
+- A Tale of a Commuter
 
-  - [A tale of a commuter](en/tale.md)
+  - [A Tale of a Commuter](en/tale.md)
   - [Not an Option](en/options.md)
   - [Old Myths](en/old-myth.md)
   - [Mythbuster](en/mythbuster.md)
 
-- Setting expectation
+- Setting Expectation
 
-  - [Set the right expectation](en/set-expectation.md)
+  - [Set the Right Expectation](en/set-expectation.md)
   - [Getting It Right](en/get-it-right.md)
   - [Lone Worker](en/lone-worker.md)
   - [Break free from the 9 to 5](en/9-to-5.md)
   - [Distraction and Boundaries](en/distraction-boundaries.md)
 
-- Beyond trust
+- Beyond Trust
 
   - [Communication](en/communication.md)
-  - [Beyond trust](en/beyond-trust.md)
-  - [Timezone and cultural differences](en/culture-differences.md)
-  - [How to structure your work](en/how-to-structure.md)
+  - [Beyond Trust](en/beyond-trust.md)
+  - [Timezone and Cultural Differences](en/culture-differences.md)
+  - [How to Structure Your Work](en/how-to-structure.md)
   
-- Work from everywhere
+- Work From Everywhere
 
-  - [Work from everywhere](en/work-from-everywhere.md)
-  - [The case of a digital nomad](en/digital-nomad.md)
-  - [Get out and socialize](en/get-out.md)
+  - [Work From Everywhere](en/work-from-everywhere.md)
+  - [The Case of a Digital Nomad](en/digital-nomad.md)
+  - [Get Out and Socialize](en/get-out.md)
 
-- What to prepare
-  - [Different types of employment](en/employment.md)
-  - [Incentives and benefits](en/incentive-benefits.md)
-  - [Remote toolkit](en/remote-toolkit.md)
-  - [Remote onboarding](en/onboarding.md)
-  - [Find your groove](en/find-your-groove.md)
+- What to Prepare
+  - [Different Types of Employment](en/employment.md)
+  - [Incentives and Benefits](en/incentive-benefits.md)
+  - [Remote Toolkit](en/remote-toolkit.md)
+  - [Remote Onboarding](en/onboarding.md)
+  - [Find Your Groove](en/find-your-groove.md)
 
-- Final words
+- Final Words
   
   - [Acknowledgements](en/acknowledgements.md)
-  - [About the author](en/author.md)
+  - [About the Author](en/author.md)
   - [Credit](en/credit.md)
