@@ -13,7 +13,7 @@
   - [Set the Right Expectation](en/set-expectation.md)
   - [Getting It Right](en/get-it-right.md)
   - [Lone Worker](en/lone-worker.md)
-  - [Break free from the 9 to 5](en/9-to-5.md)
+  - [Break free From 9 to 5](en/9-to-5.md)
   - [Distraction and Boundaries](en/distraction-boundaries.md)
 
 - Beyond Trust

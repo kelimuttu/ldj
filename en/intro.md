@@ -1,6 +1,6 @@
 # Introduction
 
-## A note to reader
+## A Note to Reader
 
 <output data-lang="">
 
@@ -26,7 +26,7 @@ I’m not an expert by all means in this area. But I hope, reading this book wil
 
 Lastly, I want to clarify that all the things that I wrote here are solely my views and don’t represent my employers.
 
-## Want to contribute?
+## Want to Contribute?
 
 The idea for this book was born in 2019 after I just finished my first book. The majority of the content was also written in that same year. Obviously, the pandemic gave me the perfect momentum to publish the book. However, having to cope with all the pandemic madness, I started to lose momentum and ended up procrastinating for more than 2 years. 2022 gives me new hope, now that many countries have started to lift their pandemic restrictions. But instead of publishing it the old-school way, I decided to publish it as a website and host the code in a [public repository](https://github.com/kelimuttu/long-distance-work). The hope is that other people can directly contribute by submitting issues or feedback about how to improve the book. 
 

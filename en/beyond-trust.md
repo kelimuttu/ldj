@@ -1,4 +1,4 @@
-# Beyond trust
+# Beyond Trust
 
 `“A remote work environment should encourage performance-not presence,” says entrepreneur Neil Patel. - The Ultimate Guide to Remote Work.`
 

@@ -1,4 +1,4 @@
-# Get out and socialize 
+# Get Out and Socialize 
 
 Even if you don't plan to explore a new place, getting out and socializing is still important for you. Whether you work from home or from the road, it’s still necessary to participate in the communal activity once in a while (I’d have to repeat this to emphasize the importance). And it’s actually good for your well-being. [An article from Psychology Today](http://www.plosmedicine.org/article/info:doi/10.1371/journal.pmed.1000316) cited that “strong social connection leads to a 50% increased chance of longevity.”
 

@@ -1,4 +1,4 @@
-# Timezone and cultural differences
+# Timezone and Cultural Differences
 
 It can be hard to navigate yourself in a new remote environment, let alone when you work in a multi-cultural and globally spread out team.
 

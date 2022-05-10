@@ -6,7 +6,7 @@ However, a ping can also mean distraction. So make sure you put some thoughts on
 
 In addition to that, it’s also important to recognize the type of audience for the information you'd like to share. You have to distinguish if a piece of information is important for everyone in the company, only your team, or maybe only your manager. Being intentional in that way will save other people’s time in this information-overload era.
 
-## Personal ecology exercise 
+## Personal Ecology Exercise 
 
 Another important thing to note is that you need to clearly specify the best way to reach out to you. Especially if you work in a big company that has more than 100 people. Whether it’s an IM app or Slack, make sure that you lead people in the right direction. 
 
@@ -24,7 +24,7 @@ Through this exercise, we try to get to know each other’s boundaries and use t
 
 I find that this exercise was helpful to help us recognize each other's boundaries and preferences. In addition to communication preferences, we also use this exercise to learn about each other's travel preferences. This is especially helpful to recognize how much notice a person needs for a business trip request, how frequent s/he's most comfortable with when it comes to business travel, etc. 
 
-## Written vs verbal
+## Written vs Verbal
 
 Of course, being excellent in written communication is a fundamental requirement in a remote team, so make sure to work on your typos if you want to work remotely. But typos can also probably be tolerated if you can communicate context pretty well. Whenever we are to communicate something,  try to always include the background information to make sure that everyone understands the context.
 
@@ -32,7 +32,7 @@ That being said, verbal and visual communication is still important for a remote
 
 And speaking about meetings, I found that coming to a meeting a few minutes before it starts, can be a great chance to catch up with your colleagues in a more casual setup. It’s fascinating how you can learn more about your colleagues through a brief banter like that. That being said, it'll probably also depend on your company culture. If being late is a normal thing, you may not get the benefit of showing up early to a meeting. 
 
-# English proficiency
+# English Proficiency
 
 If you're working in a global team like me, chances are, English proficiency would be one of the requirements. My advice for a beginner would be, don't be shy! The more you speak, the more you'll get better. I used to write down and rehearse my talking points before joining a meeting to make sure that I feel confident to communicate them. On a bad day, I will also use convoluted words when I couldn't find the exact term that I look for. It is a normal thing if you're not a native English speaker. Phrases like “I lost my words”, “what's that thing in English?”, or “I lost my train of thoughts” are normal in a meeting, and you shouldn't feel ashamed of that.
 

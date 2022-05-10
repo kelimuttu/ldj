@@ -1,4 +1,4 @@
-# The case of a digital nomad
+# The Case of a Digital Nomad
 
 Now, onto the glitter and rainbows talk! 
 
@@ -14,7 +14,7 @@ Well, as I mentioned in the previous chapter, working while traveling is stressf
 
 Instead of going abroad, maybe try to travel to a nearby city for a week and see what it feels like. Otherwise, Bali is a convenient fallback if you're lacking ideas. 
 
-## Working from Bali
+## Working From Bali
 
 If you've been thinking about this idea, you may wonder about a few things like how much it actually costs, what should you expect, and things like that. 
 
@@ -26,7 +26,7 @@ That also applies to how you eat. If you don't typically go to a cafe more than 
 
 Also, try to build connections while you're there, so you'll feel less alone in a new place. Join a coworking space, participate in a local community event, and contact your acquaintance that you may already know, these are some activities you can try to get to know new people while you're there. 
 
-## Travel abroad 
+## Travel Abroad 
 
 Now, if you're in a place where you are already confident that you can navigate the hurdle of working while traveling, you may now consider the idea to travel abroad. 
 
@@ -34,7 +34,7 @@ This concept is far easier to do for western folks, whose salaries are so much h
 
 But on the contrary for us, as a citizen of a third-world country, living abroad means that it'll be far more expensive than living in our own country. But this doesn't mean that we can't do it at all. It's still possible, we just have more limited options. If you're highly curious, it's still possible to travel to nearby countries like Vietnam, Thailand, and Malaysia and live there for a few weeks/months. With that, we don't have to deal with visa madness since it's fairly easier to get a visa there as an Indonesian. 
 
-## Relocate to another country
+## Relocate to Another Country
 
 Another thing that you may wonder about next is probably the possibility to relocate to another country. Becoming an expat is no longer an exclusive thing in today's society, where the line between cultural boundaries is getting blurry. 
 

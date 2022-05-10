@@ -1,4 +1,4 @@
-# Remote onboarding
+# Remote Onboarding
 
 Despite the toolkits that I mentioned previously, each company may require a different set of tools. And chances are, you'll get to know more about it when you go through the onboarding process. 
 

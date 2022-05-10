@@ -1,4 +1,4 @@
-# About the author
+# About the Author
 
 ![logo](../_media/author.svg ':size=20%')
 

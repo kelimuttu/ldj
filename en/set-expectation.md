@@ -1,4 +1,4 @@
-# Set the right expectation
+# Set the Right Expectation
 
 We all know, there are many benefits of working remotely. However, there’s one thing that we need to pay attention to before we talk about technicality, which is how to set the right expectation based on our circumstances. This relates to the type of company that we’re working for, our legal arrangement with the company, and our individual living situation as well. 
 

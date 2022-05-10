@@ -1,4 +1,4 @@
-# Remote toolkit
+# Remote Toolkit
 
 Tools for working remotely can be varied depending on the type of work that you're doing and the means of communication that your team members are using. But the broad idea can be categorized like the following:
 

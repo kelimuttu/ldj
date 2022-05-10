@@ -1,4 +1,4 @@
-# Credit & attribution
+# Credit
 
 ## Books
 
@@ -20,13 +20,13 @@ A few other tools that I mentioned in the book apart from the Remote Toolkit sec
 - [Lunchclub](https://lunchclub.com/)
 - [Focusmate](https://www.focusmate.com/)
 
-## Visual attribution 
+## Visual Attribution 
 
 I also rely on these artists to decorate this book with visual artworks: 
 
 - <a href="https://www.flaticon.com/free-icons/videoconference" title="videoconference icons">Videoconference icons created by Freepik - Flaticon</a>
 
-# Tech stack
+# Tech Stack
 
 I'm grateful for [Docsify](https://docsify.js.org) for making it possible for me to focus on the content instead of having to deal with the technical thing of building a website. 
 

@@ -1,4 +1,4 @@
-# Different types of employment
+# Different Types of Employment
 
 Let's say you get everything else in order, and now you're negotiating with a company on a job offer for a remote position. What should we consider and prepare?
 
